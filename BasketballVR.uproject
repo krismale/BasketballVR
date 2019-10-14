@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{56FC2954-4A54-C770-C09D-479A9D5B322A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BasketballVR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
